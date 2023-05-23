@@ -6,4 +6,5 @@ Algunos son scripts sencillos para treas puntuales y otros con un poco más de l
 
 El repo estará dividirá los diferentes scripts en carpetas con su respectiva descripción para una mejor organización.
 Espero encuentren algo de su utilidad y lo puedan aprovechar en su día a día laboral.
+
 Saludos!
