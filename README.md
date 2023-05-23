@@ -4,6 +4,6 @@ Utilizaré este repo para publicar diferentes modulos y scripts que me sirvieron
 
 Algunos son scripts sencillos para treas puntuales y otros con un poco más de lógica para la administración de determinadas tareas o programas.
 
-El repo estará dividirá los diferentes scripts en carpetas con su respectiva descripción para un amejor organización.
-Espero encuentren algo de su utilidad y que puedan aprovechar en su día a día laboral.
+El repo estará dividirá los diferentes scripts en carpetas con su respectiva descripción para una mejor organización.
+Espero encuentren algo de su utilidad y lo puedan aprovechar en su día a día laboral.
 Saludos!
